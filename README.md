@@ -6,8 +6,7 @@ I'm a passionate and enthusiastic Android and Kotlin developer with interest in 
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Mobifind - a location tracking android application
-- 🌱 I’m currently learning Kotlin for backend (Ktor), Jetpack Compose and Kotlin Multiplatform Mobile (KMM)
+- 🔭 I’m currently working as Mobile Android Engineer for Cavista Technologies (Axxess Global Partner)
 - 👯 I’m looking to collaborate on Android and/or Kotlin projects
 - 💬 Ask me about Android and Kotlin
 - 📫 How to reach me: 
