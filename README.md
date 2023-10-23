@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate and enthusiastic Android and Kotlin developer with interest in leadership and mentorship. I'm currently deep diving into Advanced Android Architectures and Android Test-Driven Development.
-<!--
+I'm a passionate and enthusiastic Android and Kotlin developer with interest in leadership and mentorship.
 **GoddayOkos/GoddayOkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
