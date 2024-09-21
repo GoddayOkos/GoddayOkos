@@ -2,7 +2,7 @@
 
 I'm a passionate and enthusiastic Android and Kotlin developer with interest in leadership and mentorship.
 
-- 🔭 I’m currently working as Mobile Android Engineer for Cavista Technologies (Axxess Global Partner)
+- 🔭 I’m currently working full time as an Android Developer
 - 👯 I’m looking to collaborate on Android and/or Kotlin projects
 - 💬 Ask me about Android and Kotlin
 - 📫 How to reach me: 
